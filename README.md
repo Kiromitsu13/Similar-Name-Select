@@ -1,6 +1,7 @@
 # Similar Name Select
 Similar Name Select is an addon for Blender to select objects by name parts. 
 Including adding and removing from current selection without worrying about case sensitivity.
+Very handy for large project organization into collections.
 
 INSTALL DIRECTIONS:
 
