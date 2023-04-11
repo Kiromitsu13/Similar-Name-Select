@@ -7,6 +7,6 @@ INSTALL DIRECTIONS:
 
 1. In blender go to Edit/Preferences
 2. Select the addons tab and click install
-3. Select downloaded file (.py)
+3. Select downloaded file
 4. click checkbox to activate
 6. Celebrate with your homies you did it!
