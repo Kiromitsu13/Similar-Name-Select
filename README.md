@@ -1,4 +1,4 @@
-# Select Similar
+# Similar Name Select
 Select by Similar is an addon for Blender to select objects by name. 
 Including adding and removing from current selection without worrying about case sensitivity.
 
